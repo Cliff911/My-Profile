@@ -13,7 +13,7 @@ header{
     text-align: center;
     box-sizing: border-box;
     color: #1EAEDB;
-    background-color: #76fc2d;
+    background-color: #fc5938;
 
 }
 
@@ -150,3 +150,59 @@ input[type=submit]:hover {
     padding-left: 33px;
 
 }
+#myhtml {
+    width: 100%;
+    background-color: #0e0806;
+}
+
+#Bar1 {
+    width: 75%;
+    height: 30px;
+    background-color: #56af4f;
+
+}
+
+#myCSS {
+    width: 60%;
+    height: 30px;
+    background-color: #af8cab;
+}#bar2 {
+    width: 100%;
+    background-color: #0e0801;
+}
+
+#myjava {
+    width: 50%;
+    height: 30px;
+    background-color: #5e4eaf;
+}#bar3 {
+    width: 100%;
+    background-color: #0e0801;
+}
+
+#myjq {
+    width: 56%;
+    height: 30px;
+    background-color: #ae8baf;
+}#bar4 {
+    width: 100%;
+    background-color: #0e0a0d;
+}
+
+#myPhp {
+    width: 89%;
+    height: 30px;
+    background-color: #4caf50;
+}#bar5 {
+    width: 100%;
+    background-color: #0e080c;
+}
+
+#mysql {
+    width: 60%;
+    height: 30px;
+    background-color: #7659af;
+}#bar6 {
+      width: 100%;
+      background-color: #0d080e;
+  }
